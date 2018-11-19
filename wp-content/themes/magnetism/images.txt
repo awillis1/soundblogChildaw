@@ -1,0 +1,18 @@
+/*========= Images used on the demo site =========*/
+
+All images below are released under the Creative Commons Zero license.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+https://unsplash.com/photos/a7XUtljVEMc
+https://unsplash.com/photos/Nd63Kscv2XI
+https://unsplash.com/photos/9MRRM_hV4qA
+https://unsplash.com/photos/muWowSks60w
+https://unsplash.com/photos/EwM1EqeIYzk
+https://unsplash.com/photos/SSUdmQ5lA6Y
+https://unsplash.com/photos/sf4ihZObGOY
+https://unsplash.com/photos/qNPESem_t4I
+https://unsplash.com/photos/sf4ihZObGOY
+https://unsplash.com/photos/tYGooMvu0hA
+https://unsplash.com/photos/jVUbs8BOGuw
+https://unsplash.com/photos/VVEwJJRRHgk
+https://unsplash.com/photos/WHWYBmtn3_0

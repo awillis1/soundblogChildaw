@@ -1,0 +1,151 @@
+/* --------------------------------------------------------------
+Responsive
+-------------------------------------------------------------- */
+
+@media only screen and (max-width: 991px) {
+
+	html, 
+	body {
+		overflow-x: hidden;
+	}
+
+	body.archive .ccfw-content, body.single-post .ccfw-content {
+		padding-bottom: 0px;
+	}
+
+	.ccfw-first-footer-wrapper .textwidget img {
+		width: 100%;
+	}
+
+	.search-menu {
+		display: none;
+	}
+
+	.ccfw-site-logo,
+	.ccfw-site-text-logo,
+	.ccfw-header-branding,
+	.ccfw-header-details-right {
+		float: none;
+		width: 100%;
+		text-align: inherit;
+	}
+
+	body .ccfw-site-logo a {
+		line-height: inherit;
+	}
+
+	.ccfw-site-logo,
+	.ccfw-site-text-logo {
+		padding: 30px 0px;
+		text-align: center;
+	}
+
+	.ccfw-header-details-right {
+		padding-bottom: 30px;
+	}
+
+	body .ccfw-header-main,
+	.ccfw-header-main .col-lg-12 {
+	    height: inherit;
+	    display: block;
+	    align-items: inherit;
+	}
+
+	body .ccfw-header-nav {
+		background-color: #1D1D1D;
+		position: relative !important;
+	}
+
+	.previous-post {
+		display: none;
+	}
+
+	#ccfw-back-to-top {
+		visibility: hidden;
+	}
+
+	.ccfw-blog-loop-item .row {
+		display: block;
+	}
+
+	.ccfw-blog-image img {
+		width: 100%;
+	}
+
+	.ccfw-blog-loop-item .col-lg-6 {
+		width: 100%;
+	}
+
+	.ccfw-blog-loop-item {
+		padding-bottom: 30px;
+	}
+
+	.ccfw-blog-image {
+		margin-bottom: 20px;
+	}
+
+	.comment-form-author, 
+	.comment-form-email, 
+	.comment-form-url {
+		float: none;
+		width: 100%;
+		padding: 0px;
+	}
+
+	.left-content, .right-content {
+		padding-bottom: 50px;
+	}
+
+	.ccfw-header-nav {
+		border: none;
+		background-color: #1D1D1D;
+	}
+
+	.ccfw-primary-nav {
+		margin-bottom: 0px;
+	}
+
+	.nav-toggle {
+		margin-left: 0px;
+	}
+
+	.search-toggle {
+		margin-right: 0px;
+	}
+
+	.mobile-menu ul a {
+		padding-left: 0px;
+	}
+
+	.mobile-menu .caret {
+		right: 0px;
+	}
+
+	.ccfw-header-details {
+		height: auto;
+		margin-bottom: 22px;
+	}
+
+}
+
+@media only screen and (max-width: 768px) {
+
+	.widget .textwidget img {
+		width: 100%;
+	}
+
+	.ccfw-first-footer-wrapper .widget {
+		float: none;
+		width: 100%;
+		margin-bottom: 40px;
+	}
+
+	.single-post .comment-form-author, 
+	.single-post .comment-form-email, 
+	.single-post .comment-form-url {
+		padding: 0px;
+		width: 100%;
+		float: none;
+	}
+
+}

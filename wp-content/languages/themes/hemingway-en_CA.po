@@ -1,0 +1,371 @@
+# Translation of Themes - Hemingway in English (Canada)
+# This file is distributed under the same license as the Themes - Hemingway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-27 18:41:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Hemingway\n"
+
+#. Theme Name of the plugin/theme
+msgid "Hemingway"
+msgstr "Hemingway"
+
+#. Description of the plugin/theme
+msgid "Hemingway is a clean, beautiful and responsive two-column theme for bloggers. Features responsive design, retina-ready assets, full-width header image with parallax scrolling effect, custom accent color, custom logo upload, custom widgets (video, Flickr and Dribbble), page templates and translation-ready code. Demo: http://www.andersnoren.se/themes/hemingway/"
+msgstr "Hemingway is a clean, beautiful and responsive two-column theme for bloggers. Features responsive design, retina-ready assets, full-width header image with parallax scrolling effect, custom accent colour, custom logo upload, custom widgets (video, Flickr and Dribbble), page templates and translation-ready code. Demo: http://www.andersnoren.se/themes/hemingway/"
+
+#: search.php:15 search.php:67
+msgid "Search results: \"%s\""
+msgstr "Search results: \"%s\""
+
+#: comments.php:39
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s Pingback"
+msgstr[1] "%s Pingbacks"
+
+#: comments.php:17
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comment"
+msgstr[1] "%s Comments"
+
+#: widgets/dribbble-widget.php:11
+msgid "Dribbble Widget"
+msgstr "Dribbble Widget"
+
+#: widgets/flickr-widget.php:9
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#. Template Name of the plugin/theme
+msgid "No sidebar template"
+msgstr "No Sidebar Template"
+
+#. Template Name of the plugin/theme
+msgid "Full width template"
+msgstr "Full Width Template"
+
+#. Template Name of the plugin/theme
+msgid "Archive template"
+msgstr "Archive template"
+
+#: widgets/flickr-widget.php:8
+msgid "Displays your latest Flickr photos."
+msgstr "Displays your latest Flickr photos."
+
+#: widgets/dribbble-widget.php:92 widgets/flickr-widget.php:67
+msgid "Number of images to display:"
+msgstr "Number of images to display:"
+
+#: widgets/dribbble-widget.php:86
+msgid "Dribbble username"
+msgstr "Dribbble username"
+
+#: widgets/flickr-widget.php:61
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: widgets/flickr-widget.php:33
+msgid "More on Flickr &raquo;"
+msgstr "More on Flickr &raquo;"
+
+#: widgets/dribbble-widget.php:10
+msgid "Displays your latest Dribbble photos."
+msgstr "Displays your latest Dribbble photos."
+
+#: template-archives.php:124
+msgid "Archives by Day"
+msgstr "Archives by Day"
+
+#: widgets/dribbble-widget.php:80 widgets/flickr-widget.php:55
+msgid "Title"
+msgstr "Title"
+
+#: widgets/dribbble-widget.php:53
+msgid "Follow %s on Dribbble &raquo;"
+msgstr "Follow %s on Dribbble &raquo;"
+
+#: template-archives.php:112
+msgid "Archives by Year"
+msgstr "Archives by Year"
+
+#: template-archives.php:118
+msgid "Archives by Month"
+msgstr "Archives by Month"
+
+#: template-archives.php:106
+msgid "Contributors"
+msgstr "Contributors"
+
+#: template-archives.php:79
+msgid "Archives by Categories"
+msgstr "Archives by Categories"
+
+#: template-archives.php:59
+msgid "Last 30 Posts"
+msgstr "Last 30 Posts"
+
+#. Translators: %s = The name of the tag
+#: template-archives.php:95
+msgid "View all posts in %s"
+msgstr "View all posts in %s"
+
+#: template-archives.php:85
+msgid "Archives by Tags"
+msgstr "Archives by Tags"
+
+#: single.php:135
+msgid "Next post"
+msgstr "Next Post"
+
+#: single.php:133
+msgid "Next post:"
+msgstr "Next post:"
+
+#: single.php:123
+msgid "Previous post"
+msgstr "Previous Post"
+
+#: single.php:121
+msgid "Previous post: %s"
+msgstr "Previous post: %s"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Search"
+
+#: image.php:93 page.php:73 single.php:154 template-archives.php:154
+#: template-fullwidth.php:79 template-nosidebar.php:79
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "We couldn't find any posts that matched your query. Please try again."
+
+#: image.php:81
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "Next<span> attachment</span> &raquo;"
+
+#: image.php:80
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; Previous<span> attachment</span>"
+
+#: index.php:45 search.php:47
+msgid "&laquo; Older<span> posts</span>"
+msgstr "&laquo; Older<span> posts</span>"
+
+#: index.php:19
+msgid "Page %s of %s"
+msgstr "Page %s of %s"
+
+#: index.php:47 search.php:49
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "Newer<span> posts</span> &raquo;"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Search Form"
+
+#: search.php:89
+msgid "No results. Try again, would you kindly?"
+msgstr "No results. Try again, would you kindly?"
+
+#: functions.php:370
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Upload a logo to replace the default site name and description in the header"
+
+#: functions.php:398
+msgid "Accent Color"
+msgstr "Accent Color"
+
+#: functions.php:363
+msgid "Allows you to customize some settings for Hemingway."
+msgstr "Allows you to customize some settings for Hemingway."
+
+#: functions.php:360
+msgid "Hemingway Options"
+msgstr "Hemingway Options"
+
+#: functions.php:368 functions.php:406
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:330
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:307
+msgid "(Post author)"
+msgstr "(Post author)"
+
+#: functions.php:320
+msgid "Awaiting moderation"
+msgstr "Awaiting moderation"
+
+#: functions.php:287
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:287
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:242
+msgid "Continue reading"
+msgstr "Continue reading "
+
+#: functions.php:151
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in this area will be shown in the sidebar."
+
+#: functions.php:121
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Widgets in this area will be shown in the left column in the footer."
+
+#: functions.php:139
+msgid "Footer C"
+msgstr "Footer C"
+
+#: functions.php:131
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Widgets in this area will be shown in the middle column in the footer."
+
+#: functions.php:129
+msgid "Footer B"
+msgstr "Footer B"
+
+#: functions.php:141
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Widgets in this area will be shown in the right column in the footer."
+
+#: functions.php:149
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:119
+msgid "Footer A"
+msgstr "Footer A"
+
+#: footer.php:64
+msgid "Up"
+msgstr "Up"
+
+#: footer.php:64
+msgid "To the top"
+msgstr "To the top"
+
+#: footer.php:64
+msgid "Theme by <a href=\"%s\">Anders Noren</a>"
+msgstr "Theme by <a href=\"%s\">Anders Noren</a>"
+
+#: content.php:7
+msgid "Sticky post"
+msgstr "Sticky Post"
+
+#: content.php:45 single.php:82
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content.php:45 single.php:82
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content.php:45 single.php:82
+msgid "0 Comments"
+msgstr "0 Comments"
+
+#: content-aside.php:17 content-quote.php:17 content-video.php:17
+#: content.php:59 functions.php:328 page.php:53 single.php:88
+#: template-archives.php:138 template-fullwidth.php:57
+#: template-nosidebar.php:57
+msgid "Edit"
+msgstr "Edit"
+
+#: content-aside.php:9 content-quote.php:9 content-video.php:9 content.php:51
+msgid "Sticky"
+msgstr "Sticky"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:65
+msgid "Newer<span> Comments</span> &raquo;"
+msgstr "Newer<span> Comments</span> &raquo;"
+
+#: comments.php:63
+msgid "&laquo; Older<span> Comments</span>"
+msgstr "&laquo; Older<span> Comments</span>"
+
+#: archive.php:72
+msgid "Newer<span> posts</span>"
+msgstr "Newer<span> posts</span>"
+
+#: archive.php:70
+msgid "Older<span> posts</span>"
+msgstr "Older<span> posts</span>"
+
+#: archive.php:32 search.php:21 search.php:73
+msgid "(page %s of %s)"
+msgstr "(page %s of %s)"
+
+#: archive.php:25
+msgid "Archive"
+msgstr "archive"
+
+#: archive.php:23
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: archive.php:20
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: archive.php:18
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: archive.php:16
+msgctxt "Y = Year"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:16
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:14
+msgctxt "F = Month, Y = Year"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:12
+msgid "Date: %s"
+msgstr "Date: %s"
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+
+#: archive.php:14
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: 404.php:15
+msgid "Error 404"
+msgstr "Error 404"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/hemingway-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/hemingway-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"

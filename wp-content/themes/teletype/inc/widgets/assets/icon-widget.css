@@ -1,0 +1,66 @@
+/* =Icon Widget
+-------------------------------------------------------------- */
+.custom-icon-container {
+	display: block;
+	line-height: 0;
+	margin: 5px 0;
+}
+
+.custom-icon-container i {
+	font-size: 42px;
+}
+
+.font-icons-picker,
+.font-icons-picker div {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.font-icons-picker {
+	height: 300px;
+	overflow: scroll;
+	margin-left: -5px;
+	margin-right: -5px;
+	margin-top: 10px;
+	display: none;
+}
+
+	.font-icons-picker .c4 {
+		float: left;
+		width: 33.33%;
+		text-align: center;
+		padding: 0 5px;
+	}
+
+	.font-icons-picker .c4 div {
+		background: #fefefe;
+		width: 100%;
+		margin-bottom: 10px;
+		padding: 10px 0;
+		font-size: 11px;
+		cursor: pointer;
+	}
+
+		.customize-control .font-icons-picker .c4 div {
+			height: 70px;
+		}
+
+		.font-icons-picker .c4 div:hover {
+			background: #eee;
+		}
+
+	.font-icons-picker i {
+		display: block;
+		font-size: 30px;
+		height: 45px;
+		line-height: 45px;
+	}
+
+		.font-icons-picker .c4 div:hover i {
+			font-size: 40px;
+		}
+
+	.font-icons-picker .c4:nth-child(3n+1) {
+		clear: both;
+	}

@@ -1,0 +1,12 @@
+ul.ckecksorter-multicheck-sortable-list .ckecksorter-multicheck-sortable-handle{
+	float: right;
+	cursor: move;
+}
+ul.ckecksorter-multicheck-sortable-list li{
+	padding: 7px;
+	border: 1px solid #e5e5e5;
+	background: #fafafa;
+}
+.ckecksorter-hideme{
+	display: none !important;
+}

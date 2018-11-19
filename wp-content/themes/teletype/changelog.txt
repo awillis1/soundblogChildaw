@@ -1,0 +1,119 @@
+== Teletype ==
+
+= 1.2.5 - 8.09.2018
+* Tweak: Update theme screenshot to be within new WordPress.org rules
+
+= 1.2.4 - 24.08.2018
+* Replaced the welcome screen
+* Removed unnecessary files
+* Updated bootstrap framework files to version 3.3.7
+* Some other minor changes
+
+= 1.2.3 - 20.04.2018
+* Deleted the incorrect line of js that was to fix the menu bug on the iPhone
+* Added a new line of js to fix bug to switching menu on the iPhone
+* Added font size option for a headline in the Customizer.
+* Improved of the headline section.
+* Changed the view of the gallery tile on phones (now the post title is always visible on the image background)
+* Added basic style to the visual editor
+
+= 1.2.2 - 18.02.2018
+* Fix bug of the menu toggling for iPhone
+
+= 1.2.1 - 9.01.2018
+* Bug fixes.
+
+= 1.2.0 - 3.10.2017
+* Added a js method to detect the lack of support for fixed background
+
+= 1.1.9 - 8.06.2017
+* Fixed front-page template file
+* Added layout option for home widgets section
+* Fixed custom text in footer
+* Fixed style sub-menu of the main navigation
+* Other minor fixes (php, css)
+
+= 1.1.8 - 23.05.2017
+* Removed frontpage template file
+* Reorder and rename the Customizer sections
+* Improved style mobile navigation bar
+* Other minor fixes (php, css)
+
+= 1.1.7 - 12.04.2017
+* Remove not used file
+* Changed headline layout
+* Added background image for header function
+* Added option for overlay opacity
+* Other minor fixes (php, css)
+
+= 1.1.6 - 31.03.2017
+* Changed the function of the Google font inclusion (thank you @catchthemes)
+
+= 1.1.5 - 30.03.2017
+* Remove comments callback
+* Escape admin_url(), $thumbnail
+* Changed the description of the license Font Awesome
+* Other fixes (css)
+
+= 1.1.4 - 29.03.2017
+* Remove not used file - custom-header.php
+* Fixed Singluar/Multiple Placeholders
+* Changed the description of the license Font Awesome
+* Other fixes (php, css)
+
+= 1.1.3 - 3.11.2016
+* Some styling improvements - css
+* Deleting text strings default values in Customizer
+
+= 1.1.2 - 6.09.2016
+* Change and bug fixes in accordance with the requirements of the theme review team WordPress.org - php, css
+
+= 1.1.1 - 6.09.2016
+* Change and bug fixes in accordance with the requirements of the theme review team WordPress.org - php, css
+
+= 1.1.0 - 6.09.2016
+* Change and bug fixes in accordance with the requirements of the theme review team WordPress.org
+
+= 1.0.9 - 4.09.2016
+* Change: renaming class Walker_Nav_Menu - php
+
+= 1.0.8 - 4.09.2016
+* Change: renaming of prefixes to Walker_Nav_Menu class - php
+* Change: output main menu is defined in the function among template tags - php
+* Change: updated translation file
+
+= 1.0.7 - 3.09.2016
+* Change: renaming of prefixes to include scripts and styles - php
+* Added: supports custom logo WordPress 4.5+ - php
+
+= 1.0.6 - 3.09.2016
+* Remove: theme features deprecated tag
+
+= 1.0.5 - 2.06.2016
+* Change: minor changes in get started dashboard - the correct link to the premium version.
+* Fix: admin bar overlapping the menu bar, fixes css - css
+* Fix: the color of the toggle button, fixes css - css
+* Remove: duplication displaying the title of the post/page, deleted lines - php
+* Fix: minor fixes css - css
+
+= 1.0.4 - 3.05.2016
+* Remove: animation effect, and the css, js and customizer option
+
+= 1.0.3 - 29.03.2016
+* Fix: minor fixes css - css
+* Fix: minor fixes in the templates - php
+* Fix: minor fixes main script - js
+
+= 1.0.2 - 27.03.2016
+* Fix: minor fixes css - css
+
+= 1.0.1 - 25.03.2016
+* Change: changed info for licensed images which used in the screenshot -txt
+* Fix: fixed conditions to display headline for single post/page - php
+* Fix: fixed position background in the header - css
+* Remove: Unnecessary options in Customizer - php
+* Remove: unnecessary lines in section-blog.php - php
+* Add: the option to select the number of displayed posts
+
+= 1.0.0 - 24.03.2016
+* Initial release.

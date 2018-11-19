@@ -1,0 +1,134 @@
+# Translation of Krakatau Lite in English (Canada)
+# This file is distributed under the same license as the Krakatau Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-22 23:52:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Krakatau Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Krakatau Lite"
+msgstr "Krakatau Lite"
+
+#. Description of the plugin/theme
+msgid "This is the free version of Krakatau Theme. Krakatau Theme is Modern Blogging WordPress Themes."
+msgstr "This is the free version of Krakatau Theme. Krakatau Theme is Modern Blogging WordPress Themes."
+
+#: inc/function/thecontent.php:21
+msgid "Continue"
+msgstr "Continue"
+
+#: inc/function/navigation.php:42
+msgid "OLDER POST"
+msgstr "OLDER POST"
+
+#: inc/function/navigation.php:46
+msgid "NEWER POST"
+msgstr "NEWER POST"
+
+#: inc/function/customizer.php:27
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: inc/function/customizer.php:36
+msgid "Need more features and options?"
+msgstr "Need more features and options?"
+
+#: inc/function/customizer.php:37
+msgid "Check out the Premium Version of this theme which comes with additional features and advanced customization options for your website."
+msgstr "Check out the Premium Version of this theme which comes with additional features and advanced customization options for your website."
+
+#: inc/function/customizer.php:38
+msgid "Learn more about the Premium Version"
+msgstr "Learn more about the Premium Version"
+
+#: inc/function/customizer.php:59
+msgid "Read More"
+msgstr "Read more"
+
+#: inc/function/comment.php:27
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/function/comment.php:33
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/function/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/function/comment.php:16
+msgid "%s"
+msgstr "%s"
+
+#: inc/format/content-no-result.php:8
+msgid "Oops! This post can&rsquo;t be found."
+msgstr "Oops! This post can&rsquo;t be found."
+
+#: inc/format/content-no-result.php:12
+msgid "Try another keyword or archives then."
+msgstr "Try another keyword or archives then."
+
+#: functions.php:159
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Monserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:83
+msgctxt "Monserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:89
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Comments are closed"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location."
+msgstr "It looks like nothing was found at this location."
+
+#. translators: %s: post title
+#: comments.php:18
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "One thought on &ldquo;%s&rdquo;"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author of the plugin/theme
+msgid "Themes Awesome"
+msgstr "Themes Awesome"
+
+#. Author URI of the plugin/theme
+msgid "http://www.themesawesome.com"
+msgstr "http://www.themesawesome.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.themesawesome.com/products/blog/krakatau/"
+msgstr "http://www.themesawesome.com/products/blog/krakatau/"

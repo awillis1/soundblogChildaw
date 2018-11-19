@@ -1,0 +1,343 @@
+/*
+Theme Name: Teletype
+Description: Used to style the TinyMCE editor.
+*/
+
+
+/**
+ * =Body
+ */
+
+body {
+	color: #333;
+	font-family: "Source Code Pro", Courier, monospace;
+	font-size: 14px;
+	margin: 20px 40px;
+	max-width: 860px;
+	vertical-align: baseline;
+    	text-rendering: optimizeLegibility;
+    	word-wrap: break-word;
+}
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	margin-bottom: 1.5em;
+    	text-transform: uppercase;
+}
+
+h1,
+h2,
+h3 {
+	font-weight: 500;
+}
+
+h4, h5, h6 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+a {
+    color: #222;
+}
+a:hover,
+a:focus {
+    text-decoration: none;
+    outline: none;
+    color: #333;
+}
+
+p {
+   	font-family: "Source Code Pro", Courier, monospace;
+	margin-bottom: 1.5em;
+}
+
+.entry-content blockquote {
+    margin: 40px 0;
+}
+
+.entry-content blockquote p {
+    font: 20px/30px Helvetica,Arial,sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+button,
+.btn[type=submit],
+.button[type=submit],
+input[type=submit],
+input[type=button],
+input[type=reset] {
+    border: none;
+    border-radius: 2px;
+    background-color: #2c2c2c;
+    color: #FFF;
+    padding: 4px 16px;
+}
+
+input.search-submit {
+    	border-radius: 0 2px 2px 0;
+	margin-left: -10px;
+}
+input[type="search"] {
+    border-radius: 3px 0 0 3px !important;
+}
+
+.button:hover,
+.btn[type=submit]:hover,
+.button[type=submit]:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	background-color: #333;
+}
+
+.button:active,
+.btn[type=submit]:active,
+.button[type=submit]:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+	background-color: #000;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+	color: #222;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+select {
+	border: 1px solid #ccc;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+	color: #222;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"] {
+	padding: 3px;
+}
+
+textarea {
+	padding-left: 3px;
+	resize: vertical;
+	width: 100%;
+}
+
+input[type=checkbox],
+input[type=radio] {
+    display: inline-block;
+}
+
+label {
+    font-weight: inherit !important;
+}
+
+.required {
+    color: #E20D0D;
+}
+
+.edit-link a {
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.edit-link::before {
+	content: ' /';
+}
+
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+	outline: 0;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+# Clearings
+--------------------------------------------------------------*/
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after,
+.site-header:before,
+.site-header:after,
+.site-content:before,
+.site-content:after,
+.site-footer:before,
+.site-footer:after {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+.clear:after,
+.entry-content:after,
+.comment-content:after,
+.site-header:after,
+.site-content:after,
+.site-footer:after {
+	clear: both;
+}
+
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+.entry-content ol li {
+    margin-left: 40px;
+}
+.entry-content ul li {
+    margin-left: 40px;
+}
+.entry-content li ol,
+.entry-content li ul {
+    margin-left: 20px;
+}
+
+.entry-content ul {
+    list-style-type: disc;
+}
+
+.entry-content ol {
+    list-style-type: decimal;
+}
+
+.entry-content ol ol {
+    list-style-type: lower-alpha;
+}
+
+ul, ol {
+	list-style-type: none;
+}
+
+mark {
+    background-color: #000;
+    padding: 0.2em;
+    color: #fff;
+}

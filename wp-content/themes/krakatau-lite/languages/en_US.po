@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Krakatau Lite\n"
+"POT-Creation-Date: 2016-11-03 10:11+0700\n"
+"PO-Revision-Date: 2016-11-03 10:11+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <admin@themesawesome.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:3 inc/panels/general-options.php:99
+msgid "&copy; Copyright 2016. All Rights Reserved."
+msgstr ""
+
+#: footer.php:12
+msgid "Theme:"
+msgstr ""
+
+#: footer.php:12 header.php:22 inc/panels/general-options.php:74
+msgid "Krakatau"
+msgstr ""
+
+#: functions.php:169
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/admin/about-theme/about-theme.php:62
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Krakatau! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: inc/admin/about-theme/about-theme.php:63
+msgid "Get started with Krakatau"
+msgstr ""
+
+#: inc/admin/about-theme/about-theme.php:90
+#: inc/admin/about-theme/sections/getting-started.php:20
+msgid "Getting started"
+msgstr ""
+
+#: inc/admin/about-theme/about-theme.php:91
+msgid "Contribute"
+msgstr ""
+
+#: inc/admin/about-theme/about-theme.php:92
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:14
+msgid "Welcome to Krakatau!"
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:15
+msgid ""
+"We want to make sure you have the best experience using krakatau and that is "
+"why we gathered here all the necessary information for you. We hope you will "
+"enjoy using krakatau, as much as we enjoy creating great products."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:22
+msgid "Customize everything in a single place."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:23
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:24
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:30
+msgid "Need more features?"
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:32
+msgid "Check our add on plugin for this theme."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:33
+msgid ""
+"Check out the extender plugin of this theme which comes with additional "
+"features and advanced customization."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:34
+msgid "Learn Add On"
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:40
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:42
+msgid "How to install this theme with a minutes."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:43
+msgid ""
+"Please read our online documentation page to setup this theme. Install from "
+"clean WordPress within a minutes."
+msgstr ""
+
+#: inc/admin/about-theme/sections/getting-started.php:44
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/admin/about-theme/sections/translate.php:10
+msgid "How can I contribute?"
+msgstr ""
+
+#: inc/admin/about-theme/sections/translate.php:14
+msgid "Are you a polyglot? Want to translate krakatau into your own language?"
+msgstr ""
+
+#: inc/admin/about-theme/sections/translate.php:16
+msgid "Get involved at WordPress.org."
+msgstr ""
+
+#: inc/admin/about-theme/sections/translate.php:19
+msgid "Translate Krakatau"
+msgstr ""
+
+#: inc/admin/about-theme/sections/translate.php:24
+msgid "Are you enjoying krakatau?"
+msgstr ""
+
+#: inc/admin/about-theme/sections/translate.php:26
+#, php-format
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr ""
+
+#: inc/format/content-no-result.php:8
+msgid "Oops! This post can&rsquo;t be found."
+msgstr ""
+
+#: inc/format/content-no-result.php:12
+msgid "Try another keyword or archives then."
+msgstr ""
+
+#: inc/function/comment.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/function/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/function/comment.php:33
+msgid "Edit"
+msgstr ""
+
+#: inc/function/navigation.php:42
+msgid "OLDER POST"
+msgstr ""
+
+#: inc/function/navigation.php:46
+msgid "NEWER POST"
+msgstr ""
+
+#: inc/function/thecontent.php:21
+msgid "Continue"
+msgstr ""
+
+#: inc/panels/extend-options.php:23
+msgid "Need More Features?"
+msgstr ""
+
+#: inc/panels/extend-options.php:32
+msgid "Need more features and options?"
+msgstr ""
+
+#: inc/panels/extend-options.php:33
+msgid ""
+"Check out the Extender plugin of this theme which comes with additional "
+"features and advanced customization options for your website."
+msgstr ""
+
+#: inc/panels/extend-options.php:34
+msgid "Learn more about the Add On"
+msgstr ""
+
+#: inc/panels/extend-options.php:53
+msgid "Read More"
+msgstr ""
+
+#: inc/panels/general-options.php:12
+msgid "Background Color"
+msgstr ""
+
+#: inc/panels/general-options.php:24
+msgid ""
+"The site logo is used as a graphical representation of your company name. "
+"Recommended size: 105 (width) x 75 (height) pixels(px)."
+msgstr ""
+
+#: inc/panels/general-options.php:25
+msgid "Site logo"
+msgstr ""
+
+#: inc/panels/general-options.php:52
+msgid "General Options"
+msgstr ""
+
+#: inc/panels/general-options.php:53
+msgid ""
+"You can change the site layout in this area as well as your contact details "
+"(the ones displayed in the header & footer) "
+msgstr ""
+
+#: inc/panels/general-options.php:61
+msgid "Logo"
+msgstr ""
+
+#: inc/panels/general-options.php:79
+msgid "Text logo (company name)"
+msgstr ""
+
+#: inc/panels/general-options.php:80
+msgid ""
+"This field is best used when you don't have an image logo or simply prefer "
+"using a text as your logo / company name."
+msgstr ""
+
+#: inc/panels/general-options.php:90
+msgid "Copyright"
+msgstr ""
+
+#: inc/panels/general-options.php:91
+msgid "Change the footer copyright message from here."
+msgstr ""
+
+#: inc/panels/general-options.php:104
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/panels/general-options.php:105
+msgid "Use this to display your company copyright message."
+msgstr ""
+
+#: inc/panels/social-options.php:17
+msgid "Social Profile Links"
+msgstr ""
+
+#: inc/panels/social-options.php:18
+msgid "Control various options for contact us section from front page."
+msgstr ""
+
+#: inc/panels/social-options.php:29
+msgid "Social Links"
+msgstr ""
+
+#: inc/panels/social-options.php:30
+msgid ""
+"These are the contact details displayed in the Contact us section from front "
+"page."
+msgstr ""
+
+#: inc/panels/social-options.php:47
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/panels/social-options.php:48 inc/panels/social-options.php:67
+#: inc/panels/social-options.php:86 inc/panels/social-options.php:105
+#: inc/panels/social-options.php:124
+msgid "Will be displayed in the contact section from front page."
+msgstr ""
+
+#: inc/panels/social-options.php:66
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/panels/social-options.php:85
+msgid "LinkedIN URL"
+msgstr ""
+
+#: inc/panels/social-options.php:104
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/panels/social-options.php:123
+msgid "Pinterest URL"
+msgstr ""
