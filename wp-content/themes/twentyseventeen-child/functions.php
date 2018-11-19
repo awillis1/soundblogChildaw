@@ -7,3 +7,10 @@ function theme_enqueue_styles() {
        array('parent-style')
    );
 }
+
+//enqueue Google Fonts: Source Sans Pro and PT Serif
+add_action( 'wp_enqueue_scripts', 'my_google_fonts' );
+function my_google_fonts() {
+    wp_enqueue_style( 'my-google-fonts', 'https://fonts.googleapis.com/css?family=PT+Serif|Source+Sans+Pro:400,400i,700,900', false );
+}
+

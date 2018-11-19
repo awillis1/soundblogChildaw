@@ -10,6 +10,22 @@ Version: 0.1.0
 
 /*test*/
 p {
-    color: pink;
+    color: lightslategray;
+
+    font-family: "PT Serif";
+
 }
+
+
+.site-title {font-family: "PT Serif";}
+
+
+/*Wordpress CSS*/
+.site-branding {display:none}
+
+
+/*ContactForm7 CSS */
+.wpcf7 form label { color:#757575;}
+#button {background-color: #757575;}
+.wpcf7 form label {font-weight: 400;}
 
