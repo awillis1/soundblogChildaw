@@ -16,6 +16,41 @@ p {
 
 }
 
+.info-box {
+    margin-bottom: 2rem;
+    padding: 0 2rem 2rem;
+    background: #c3c3c3;
+
+}
+
+.info-box h1 {
+    margin-left: -2rem;
+    margin-right: -2rem;
+    padding: .5rem 2rem;
+    background:#000;
+    color: #fff;
+    font-size: 2.5rem;
+    
+}
+
+.info-box p {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px
+}
+
+.related-list a {
+    text-decoration: none;
+
+}
+
+.related-list a:hover > h3 {
+    text-decoration: underline;
+}
+
+.related-list {
+    color: lightslategray;
+
+}
 
 .site-title {font-family: "PT Serif";}
 

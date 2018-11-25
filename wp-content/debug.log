@@ -1,0 +1,25 @@
+[25-Nov-2018 18:11:29 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:11:32 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:11:34 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:11:37 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:11:38 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:11:43 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:11:46 UTC] PHP Notice:  Undefined offset: 0 in /Users/student/Desktop/soundblogChildaw/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php on line 212
+[25-Nov-2018 18:27:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 42
+[25-Nov-2018 18:27:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 42
+[25-Nov-2018 18:28:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 42
+[25-Nov-2018 18:28:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 42
+[25-Nov-2018 18:31:41 UTC] PHP Parse error:  syntax error, unexpected ''</a></span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 26
+[25-Nov-2018 18:41:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 41
+[25-Nov-2018 18:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentyseventeen_time_link() in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php:40
+Stack trace:
+#0 /Users/student/Desktop/soundblogChildaw/wp-settings.php(424): include()
+#1 /Users/student/Desktop/soundblogChildaw/wp-config.php(96): require_once('/Users/student/...')
+#2 /Users/student/Desktop/soundblogChildaw/wp-load.php(37): require_once('/Users/student/...')
+#3 /Users/student/Desktop/soundblogChildaw/wp-blog-header.php(13): require_once('/Users/student/...')
+#4 /Users/student/Desktop/soundblogChildaw/index.php(17): require('/Users/student/...')
+#5 {main}
+  thrown in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/functions.php on line 40
+[25-Nov-2018 18:48:48 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
+[25-Nov-2018 18:48:48 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
+[25-Nov-2018 18:48:48 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
