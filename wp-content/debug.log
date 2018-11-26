@@ -51,3 +51,6 @@ Stack trace:
 #6 /Users/student/Desktop/soundblogChildaw/index.php(17): require('/Users/student/...')
 #7 {main}
   thrown in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/template-parts/post/content.php on line 60
+[26-Nov-2018 18:36:18 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
+[26-Nov-2018 18:36:18 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
+[26-Nov-2018 18:36:18 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
