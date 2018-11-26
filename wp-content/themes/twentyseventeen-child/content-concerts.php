@@ -19,6 +19,7 @@
 	endif;
 	?>
 	<header class="entry-header">
+	
 		<?php
 		if ( 'post' === get_post_type() ) {
 			echo '<div class="entry-meta">';
@@ -49,7 +50,7 @@
 		</div><!-- .post-thumbnail -->
 	<?php endif; ?>
 
-	<div class="entry-content">
+	<div class="entry-content concerts">
 		<?php
 		/* translators: %s: Name of current post */
 		the_content( sprintf(

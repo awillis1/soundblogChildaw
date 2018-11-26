@@ -16,6 +16,11 @@ p {
 
 }
 
+.concerts p {
+    color: #4394a8;
+}
+
+
 .info-box {
     margin-bottom: 2rem;
     padding: 0 2rem 2rem;
@@ -63,4 +68,5 @@ p {
 .wpcf7 form label { color:#757575;}
 #button {background-color: #757575;}
 .wpcf7 form label {font-weight: 400;}
+
 
