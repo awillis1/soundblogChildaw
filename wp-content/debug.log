@@ -29,3 +29,25 @@ Stack trace:
 [25-Nov-2018 19:19:03 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
 [25-Nov-2018 19:19:03 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
 [25-Nov-2018 19:19:03 UTC] PHP Notice:  Trying to get property of non-object in /Users/student/Desktop/soundblogChildaw/wp-includes/post-template.php on line 298
+[26-Nov-2018 17:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/template-parts/post/content.php:60
+Stack trace:
+#0 /Users/student/Desktop/soundblogChildaw/wp-includes/template.php(690): require()
+#1 /Users/student/Desktop/soundblogChildaw/wp-includes/template.php(647): load_template('/Users/student/...', false)
+#2 /Users/student/Desktop/soundblogChildaw/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen/index.php(45): get_template_part('template-parts/...', '')
+#4 /Users/student/Desktop/soundblogChildaw/wp-includes/template-loader.php(74): include('/Users/student/...')
+#5 /Users/student/Desktop/soundblogChildaw/wp-blog-header.php(19): require_once('/Users/student/...')
+#6 /Users/student/Desktop/soundblogChildaw/index.php(17): require('/Users/student/...')
+#7 {main}
+  thrown in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/template-parts/post/content.php on line 60
+[26-Nov-2018 17:08:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/template-parts/post/content.php:60
+Stack trace:
+#0 /Users/student/Desktop/soundblogChildaw/wp-includes/template.php(690): require()
+#1 /Users/student/Desktop/soundblogChildaw/wp-includes/template.php(647): load_template('/Users/student/...', false)
+#2 /Users/student/Desktop/soundblogChildaw/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/single.php(23): get_template_part('template-parts/...', '')
+#4 /Users/student/Desktop/soundblogChildaw/wp-includes/template-loader.php(74): include('/Users/student/...')
+#5 /Users/student/Desktop/soundblogChildaw/wp-blog-header.php(19): require_once('/Users/student/...')
+#6 /Users/student/Desktop/soundblogChildaw/index.php(17): require('/Users/student/...')
+#7 {main}
+  thrown in /Users/student/Desktop/soundblogChildaw/wp-content/themes/twentyseventeen-child/template-parts/post/content.php on line 60
